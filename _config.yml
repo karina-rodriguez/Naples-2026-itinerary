@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: Naples 2026 Family Itinerary
+description: A complete 5-day family adventure through Naples, Pompeii, and Herculaneum
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
