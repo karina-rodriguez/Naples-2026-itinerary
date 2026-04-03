@@ -2,6 +2,10 @@
 
 > A family adventure through culture, history, food, and authentic Italian living.
 
+![Naples Bay](https://commons.wikimedia.org/wiki/Special:FilePath/Naples_From_above.jpg "Naples and Mt Vesuvius")
+
+_Your gateway to ancient Rome, world-class food, and unforgettable family memories._
+
 ---
 
 ## 📑 Quick Navigation
@@ -41,6 +45,8 @@
 
 **Timing:** 12:00–18:30
 
+![Spaccanapoli, Naples](https://commons.wikimedia.org/wiki/Special:FilePath/Spaccanapoli-Naples.jpg "Historic Spaccanapoli street")
+
 | Time | Activity | Details |
 |------|----------|---------|
 | **12:00** | ✈️ Arrive Naples | Capodichino Airport |
@@ -67,6 +73,8 @@
 ## **DAY 2: Wednesday 8 April – Pompeii Full Day**
 
 **Timing:** 10:00–17:00 (4–5 hours on site)
+
+![Pompeii Amphitheatre](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro_di_Pompei_01.jpg "Ancient Pompeii Amphitheatre")
 
 ### ⚠️ CRITICAL: PRE-BOOK TIMED TICKETS NOW
 - **Where:** vivaticket.com or pompeiisites.org
@@ -116,6 +124,8 @@
 ## **DAY 3: Thursday 9 April – Museums & Historic Centre**
 
 **Timing:** 10:00–18:30
+
+![Naples Cathedral](https://commons.wikimedia.org/wiki/Special:FilePath/Catedral_de_Nápoles.JPG "Naples Duomo Cathedral")
 
 ### ⚠️ PRE-BOOK: Archaeological Museum (MANN)
 - **Where:** coopculture.it or museum website
@@ -168,6 +178,8 @@
 ## **DAY 4: Friday 10 April – Herculaneum & Coastal Sites**
 
 **Timing:** 10:00–18:00
+
+![Herculaneum Ruins](https://commons.wikimedia.org/wiki/Special:FilePath/Herculaneum_03.JPG "Herculaneum ancient ruins")
 
 ### ⚠️ PRE-BOOK: Herculaneum Tickets
 - **Where:** coopculture.it
@@ -222,6 +234,8 @@
 
 **Timing:** 10:00–18:30
 
+![Castel Sant'Elmo](https://commons.wikimedia.org/wiki/Special:FilePath/Castel_sant_elmo.jpg "Views from Vomero Hill")
+
 **SPECIAL:** One meal out at a genuine local trattoria (not touristy)
 
 | Time | Activity | Details |
@@ -264,6 +278,10 @@
 ## **DAY 6: Sunday 12 April – Departure**
 
 **Flight:** 10:00 AM (allow 2 hours at airport)
+
+![Naples Waterfront at Sunset](https://commons.wikimedia.org/wiki/Special:FilePath/Napoli_porto_01.JPG "One last view of Naples")
+
+_Arrivederci, Naples! But the memories will last forever._
 
 | Time | Activity | Details |
 |------|----------|---------|
