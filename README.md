@@ -2,9 +2,9 @@
 
 > A family adventure through culture, history, food, and authentic Italian living.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Naples_%28Napoli%29%2C_Italy_-_panoramio_%283%29.jpg/800px-Naples_%28Napoli%29%2C_Italy_-_panoramio_%283%29.jpg" alt="Naples Waterfront" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Naples_Campania_Italy.jpg" alt="Naples Waterfront" width="600">
 
-*Beautiful Naples waterfront with Mt Vesuvius in the distance*
+*Beautiful Naples waterfront*
 
 ---
 
@@ -45,9 +45,9 @@
 
 **Timing:** 12:00–18:30
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Spaccanapoli_street_in_Naples.jpg/600px-Spaccanapoli_street_in_Naples.jpg" alt="Spaccanapoli Street" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/SpaccaNapoli4.JPG" alt="Spaccanapoli Street" width="600">
 
-*Spaccanapoli - the historic street you'll walk on Day 1*
+*Spaccanapoli - the historic street cutting through Naples*
 
 | Time | Activity | Details |
 |------|----------|---------|
@@ -76,11 +76,11 @@
 
 **Timing:** 10:00–17:00 (4–5 hours on site)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_08_Pompei_020.jpg/600px-2006_08_Pompei_020.jpg" alt="Pompeii Forum" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pompeii_Forum.JPG" alt="Pompeii Forum" width="600">
 
 *The Forum at Pompeii - heart of the ancient city*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Villa_of_mysteries_Pompeii_18.jpg/600px-Villa_of_mysteries_Pompeii_18.jpg" alt="House of the Mysteries" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Villa_of_mysteries.jpg" alt="House of the Mysteries" width="600">
 
 *Villa of the Mysteries - famous frescoes you'll see*
 
@@ -133,11 +133,11 @@
 
 **Timing:** 10:00–18:30
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CapellaDelSanGennaro.jpg/600px-CapellaDelSanGennaro.jpg" alt="Naples Duomo" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Catedral_de_N%C3%A1poles.JPG" alt="Naples Duomo" width="600">
 
 *Naples Duomo - magnificent cathedral you'll visit*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Toledo_station_Naples_01.jpg/600px-Toledo_station_Naples_01.jpg" alt="Toledo Metro Station" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Naples_Metro_Art_Station_-_Toledo_%283%29.jpg" alt="Toledo Metro Station" width="600">
 
 *Toledo Metro Station - Europe's most beautiful subway station*
 
@@ -193,11 +193,11 @@
 
 **Timing:** 10:00–18:00
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Herkulaneum_%282%29.jpg/600px-Herkulaneum_%282%29.jpg" alt="Herculaneum Ruins" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Herculaneum_02.JPG" alt="Herculaneum Ruins" width="600">
 
 *Herculaneum - better preserved than Pompeii, buried in mud*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Castel_dell%27Ovo%2C_Naples.jpg/600px-Castel_dell%27Ovo%2C_Naples.jpg" alt="Castel dell'Ovo" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Castel_dell%27Ovo_%28cropped%29.jpg" alt="Castel dell'Ovo" width="600">
 
 *Castel dell'Ovo - Naples' oldest castle on the waterfront*
 
@@ -254,7 +254,7 @@
 
 **Timing:** 10:00–18:30
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Certosa_di_San_Martino_-_vista_da_Castel_Sant%27Elmo.jpg/600px-Certosa_di_San_Martino_-_vista_da_Castel_Sant%27Elmo.jpg" alt="Certosa San Martino" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Certosa_di_San_Martino_-_Naples.jpg" alt="Certosa San Martino" width="600">
 
 *Certosa di San Martino - with panoramic views of the entire bay*
 
@@ -299,7 +299,7 @@
 
 ## **DAY 6: Sunday 12 April – Departure**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Napoli_Tramonto.jpg/600px-Napoli_Tramonto.jpg" alt="Naples Sunset" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Naples_sunset_%28cropped%29.jpg" alt="Naples Sunset" width="600">
 
 *One last sunset over Naples before heading home*
 
