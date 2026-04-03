@@ -2,6 +2,9 @@
 
 > A family adventure through culture, history, food, and authentic Italian living.
 
+![Naples Waterfront](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Naples_%28Napoli%29%2C_Italy_-_panoramio_%283%29.jpg/800px-Naples_%28Napoli%29%2C_Italy_-_panoramio_%283%29.jpg)
+*Beautiful Naples waterfront with Mt Vesuvius in the distance*
+
 ---
 
 ## 📑 Quick Navigation
@@ -41,6 +44,9 @@
 
 **Timing:** 12:00–18:30
 
+![Spaccanapoli Street](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Spaccanapoli_street_in_Naples.jpg/600px-Spaccanapoli_street_in_Naples.jpg)
+*Spaccanapoli - the historic street you'll walk on Day 1*
+
 | Time | Activity | Details |
 |------|----------|---------|
 | **12:00** | ✈️ Arrive Naples | Capodichino Airport |
@@ -67,6 +73,12 @@
 ## **DAY 2: Wednesday 8 April – Pompeii Full Day**
 
 **Timing:** 10:00–17:00 (4–5 hours on site)
+
+![Pompeii Forum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_08_Pompei_020.jpg/600px-2006_08_Pompei_020.jpg)
+*The Forum at Pompeii - heart of the ancient city*
+
+![House of the Mysteries](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Villa_of_mysteries_Pompeii_18.jpg/600px-Villa_of_mysteries_Pompeii_18.jpg)
+*Villa of the Mysteries - famous frescoes you'll see*
 
 ### ⚠️ CRITICAL: PRE-BOOK TIMED TICKETS NOW
 - **Where:** vivaticket.com or pompeiisites.org
@@ -116,6 +128,12 @@
 ## **DAY 3: Thursday 9 April – Museums & Historic Centre**
 
 **Timing:** 10:00–18:30
+
+![Naples Duomo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CapellaDelSanGennaro.jpg/600px-CapellaDelSanGennaro.jpg)
+*Naples Duomo - magnificent cathedral you'll visit*
+
+![Toledo Metro Station](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Toledo_station_Naples_01.jpg/600px-Toledo_station_Naples_01.jpg)
+*Toledo Metro Station - Europe's most beautiful subway station*
 
 ### ⚠️ PRE-BOOK: Archaeological Museum (MANN)
 - **Where:** coopculture.it or museum website
@@ -168,6 +186,12 @@
 ## **DAY 4: Friday 10 April – Herculaneum & Coastal Sites**
 
 **Timing:** 10:00–18:00
+
+![Herculaneum Ruins](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Herkulaneum_%282%29.jpg/600px-Herkulaneum_%282%29.jpg)
+*Herculaneum - better preserved than Pompeii, buried in mud*
+
+![Castel dell'Ovo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Castel_dell%27Ovo%2C_Naples.jpg/600px-Castel_dell%27Ovo%2C_Naples.jpg)
+*Castel dell'Ovo - Naples' oldest castle on the waterfront*
 
 ### ⚠️ PRE-BOOK: Herculaneum Tickets
 - **Where:** coopculture.it
@@ -222,6 +246,9 @@
 
 **Timing:** 10:00–18:30
 
+![Certosa San Martino](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Certosa_di_San_Martino_-_vista_da_Castel_Sant%27Elmo.jpg/600px-Certosa_di_San_Martino_-_vista_da_Castel_Sant%27Elmo.jpg)
+*Certosa di San Martino - with panoramic views of the entire bay*
+
 **SPECIAL:** One meal out at a genuine local trattoria (not touristy)
 
 | Time | Activity | Details |
@@ -262,6 +289,11 @@
 ---
 
 ## **DAY 6: Sunday 12 April – Departure**
+
+![Naples Sunset](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Napoli_Tramonto.jpg/600px-Napoli_Tramonto.jpg)
+*One last sunset over Naples before heading home*
+
+---**
 
 **Flight:** 10:00 AM (allow 2 hours at airport)
 
