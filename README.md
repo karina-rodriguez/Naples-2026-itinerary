@@ -2,7 +2,7 @@
 
 > A family adventure through culture, history, food, and authentic Italian living.
 
-![Naples Bay](https://commons.wikimedia.org/wiki/Special:FilePath/Naples_From_above.jpg "Naples and Mt Vesuvius")
+![Naples Bay](https://commons.wikimedia.org/wiki/File:Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg)
 
 _Your gateway to ancient Rome, world-class food, and unforgettable family memories._
 
@@ -45,7 +45,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 **Timing:** 12:00–18:30
 
-![Spaccanapoli, Naples](https://commons.wikimedia.org/wiki/Special:FilePath/Spaccanapoli-Naples.jpg "Historic Spaccanapoli street")
+![Spaccanapoli, Naples](https://commons.wikimedia.org/wiki/File:Spaccanapoli-Naples.jpg)
 
 | Time | Activity | Details |
 |------|----------|---------|
@@ -74,7 +74,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 **Timing:** 10:00–17:00 (4–5 hours on site)
 
-![Pompeii Amphitheatre](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro_di_Pompei_01.jpg "Ancient Pompeii Amphitheatre")
+![Pompeii Amphitheatre](https://commons.wikimedia.org/wiki/File:Anfiteatro_di_Pompei_01.jpg)
 
 ### ⚠️ CRITICAL: PRE-BOOK TIMED TICKETS NOW
 - **Where:** vivaticket.com or pompeiisites.org
@@ -125,7 +125,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 **Timing:** 10:00–18:30
 
-![Naples Cathedral](https://commons.wikimedia.org/wiki/Special:FilePath/Catedral_de_Nápoles.JPG "Naples Duomo Cathedral")
+![Naples Cathedral](https://commons.wikimedia.org/wiki/File:Catedral_de_N%C3%A1poles.JPG)
 
 ### ⚠️ PRE-BOOK: Archaeological Museum (MANN)
 - **Where:** coopculture.it or museum website
@@ -179,7 +179,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 **Timing:** 10:00–18:00
 
-![Herculaneum Ruins](https://commons.wikimedia.org/wiki/Special:FilePath/Herculaneum_03.JPG "Herculaneum ancient ruins")
+![Herculaneum Ruins](https://commons.wikimedia.org/wiki/File:Herculaneum_03.JPG)
 
 ### ⚠️ PRE-BOOK: Herculaneum Tickets
 - **Where:** coopculture.it
@@ -234,7 +234,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 **Timing:** 10:00–18:30
 
-![Castel Sant'Elmo](https://commons.wikimedia.org/wiki/Special:FilePath/Castel_sant_elmo.jpg "Views from Vomero Hill")
+![Castel Sant'Elmo](https://commons.wikimedia.org/wiki/File:Castel_sant_elmo.jpg)
 
 **SPECIAL:** One meal out at a genuine local trattoria (not touristy)
 
@@ -279,7 +279,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 **Flight:** 10:00 AM (allow 2 hours at airport)
 
-![Naples Waterfront at Sunset](https://commons.wikimedia.org/wiki/Special:FilePath/Napoli_porto_01.JPG "One last view of Naples")
+![Naples Waterfront at Sunset](https://commons.wikimedia.org/wiki/File:Napoli_porto_01.JPG)
 
 _Arrivederci, Naples! But the memories will last forever._
 
