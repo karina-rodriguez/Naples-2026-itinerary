@@ -8,7 +8,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 ---
 
-## 📑 Quick Navigation
+## **Quick Navigation**
 
 **Jump to a specific day:**
 
@@ -69,6 +69,8 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | **18:30** | 🍽️ **Cook at Airbnb** | **Pasta alle vongole** (clam pasta), grilled fish with lemon, fresh salad |
 | | | Early night – big day tomorrow! |
 
+[**Back to navigation**](#quick-navigation)
+
 ---
 
 ## **DAY 2: Wednesday 8 April – Pompeii Full Day**
@@ -119,6 +121,8 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | **17:00** | 🏠 **Back to Airbnb** | Rest, freshen up, legs up! |
 | **18:00** | 🍽️ **Cook dinner** | Grilled or baked fish, pasta, salad |
 | | | Early night – you'll be tired but exhilarated |
+
+[**Back to navigation**](#quick-navigation)
 
 ---
 
@@ -173,6 +177,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | | | Fresh salad, mozzarella di bufala on side |
 | | | Adults: glass of local wine |
 | | | Finish with limoncello (digestif) or fruit |
+
 
 ---
 
