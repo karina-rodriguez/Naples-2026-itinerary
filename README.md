@@ -53,10 +53,10 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 | Destination | Route | Duration | Cost |
 |---|---|---|---|
-| **Airport (arriving)** | Alibus shuttle service (€5 per person) to Naples Immacolatella Porta Di Massa, 80133 Napoli NA, Italy (33 min) → Walk to Metro Line 6 Municipio to Chiaia 1 stop (2 min) → Walk uphill to Giovanni Nicotera 32 (3 min) | ~55 mins | Biglietto Settimanale costs €15.80 per person, and will last for whole week. Total €20.80 |
-| **Historic Centre** | Walk downhill to Via Toledo (5 min) OR Metro Line 1 from Vanvitelli (2 stops to Dante) | 10–15 min | Included in 5-day pass |
-| **Garibaldi Station** (trains to Pompeii/Herculaneum) | Walk downhill (20 min) OR Metro Line 1 to Garibaldi (5 min) | 5–20 min | Included in 5-day pass |
-| **Airport (departing)** | Walk downhill (5 min) → Metro Line 1 to Garibaldi (5 min) → Alibus (€5) to airport (20 min) | ~35 mins | €5 |
+| **Historic Centre/Waterfront** | Walk downhill to Chiaia (2 min) OR walk to Via Toledo (5 min) | 2–5 min | Walking |
+| **Pompeii/Herculaneum trains** | Walk downhill (50 min) OR **Metro Line 1 from Vanvitelli to Garibaldi** (5 min) | 50 min walk OR 5 min metro | Included in pass |
+| **Vomero attractions** | Walk uphill to Funicolare Centrale (5 min walk downhill) | 5 min | Included in pass |
+| **Airport (departing)** | Walk downhill to Chiaia → Metro Line 6 to Municipio → Alibus to airport (€5) | ~35 mins | €5 |
 
 ---
 
@@ -72,21 +72,22 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | Time | Activity | Location & Directions | Details |
 |------|----------|---|---------|
 | **12:00** | ✈️ Arrive Naples | **Capodichino Airport (NAP)** – 7 km north of city | Check luggage, exit terminal |
-| **12:30** | 🚌 Alibus to City | **Alibus bus** (€5/person) – runs every 15–20 mins → **Naples Garibaldi (Centrale) Station** – 20 min journey | Get tickets at kiosk. Validate on boarding. |
-| **13:00** | 🏠 Check in Airbnb | **Garibaldi Station** → Metro Line 1 → **Vanvitelli stop** (5 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) OR local taxi (€5–8, 5 min) | Text Airbnb host with ETA. Drop bags, freshen up. |
-| **13:45** | 🎫 Buy transport pass | **At Vanvitelli Metro stop** or **Garibaldi Station** | €25/person (Campania Unica – covers all transport 5 days: metro, buses, trains, funiculars) |
-| **14:00** | 🍕 **Pizza Alley** | **From Airbnb** → Walk downhill to Via Toledo (5 min) → Walk to **Via dei Tribunali** (10 min) OR Metro Line 1 to Dante (10 min) | **Try:** L'Antica Pizzeria da Michele (Via dei Tribunali 94) OR Franco Pepe Pizzeria |
+| **12:30** | 🚌 Alibus to City | **Alibus bus** (€5/person) – runs every 15–20 mins → **Naples Immacolatella Porta Di Massa** (33 min journey) | Get tickets at kiosk. Validate on boarding. |
+| **13:05** | 🚇 Metro to Chiaia | **At Immacolatella** → Walk to Metro Line 6 → **Municipio to Chiaia** (1 stop, 2 min) | Fastest access to Airbnb neighbourhood |
+| **13:10** | 🏠 Check in Airbnb | **From Chiaia metro stop** → Walk uphill to **Via Giovanni Nicotera 32** (3 min) | Text Airbnb host with ETA. Drop bags, freshen up. |
+| **13:45** | 🎫 Buy transport pass | **At Chiaia area** or **any metro stop** | €25/person (Campania Unica – covers all transport 5 days: metro, buses, trains, funiculars) |
+| **14:00** | 🍕 **Pizza Alley** | **From Airbnb** → Walk downhill to Chiaia (2 min) → Walk to **Via dei Tribunali** (8 min) | **Try:** L'Antica Pizzeria da Michele (Via dei Tribunali 94) OR Franco Pepe Pizzeria |
 | | | | Eat classic Margherita/Marinara folded Naples-style. Budget: €5–8 per person |
-| **15:00** | 🚶 **Spaccanapoli Walk** | **Via dei Tribunali** → Walk south along **Spaccanapoli** (UNESCO street, 10 min) – direct pedestrian route | Ancient street cutting through city's heart |
+| **15:00** | 🚶 **Spaccanapoli Walk** | **Via dei Tribunali** → Walk south along **Spaccanapoli** (UNESCO street, 8 min) – direct pedestrian route | Ancient street cutting through city's heart |
 | | | **Church of Gesù Nuovo** (Piazza del Gesù Nuovo, 5 min walk) | Free entry |
 | | | **Santa Chiara Cloister** (Piazza Santa Chiara, off Spaccanapoli, 5 min walk) | €6 entry |
 | | | **Via San Gregorio Armeno** (off Spaccanapoli, 5 min walk) | Browse nativity scene crafts year-round |
 | | | **Spanish Quarter** (Quartieri Spagnoli, west of Spaccanapoli, 10 min walk) | Spot Diego Maradona murals, labyrinthine streets, very local |
-| **16:45** | 🏰 **Piazza del Plebiscito** | **From Spaccanapoli** → Walk south through historic centre (15 min) OR **Metro Line 1 to Plebiscito stop** (5 min) | Naples' grandest square (free), Royal Palace exterior |
+| **16:45** | 🏰 **Piazza del Plebiscito & Waterfront** | **From Spaccanapoli** → Walk south (12 min) to **Piazza del Plebiscito**, then east to **Lungomare** waterfront (adjacent) | Naples' grandest square (free), Royal Palace exterior |
 | | | **Lungomare waterfront** (east from Piazza, 10 min walk) | Views of Mt Vesuvius across bay, scenic promenade |
 | | | **Castel dell'Ovo** (east end of Lungomare, 10 min walk) | Medieval castle, free exterior, €1 interior |
-| **17:45** | 🐟 **Porta Nolana Fish Market** | **From Castel dell'Ovo** → Walk back west (15 min) OR **Metro Line 1 to Garibaldi** (5 min) → Walk east to **Porta Nolana** (5 min from station) | Fresh seafood, pasta, tomatoes, mozzarella. Fishmongers grill samples. Budget: £20–25 for family dinner |
-| **18:30** | 🍽️ **Return to Airbnb & Cook** | **From Porta Nolana** → **Metro Line 1 to Vanvitelli** (10 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | **Pasta alle vongole** (clam pasta), grilled fish with lemon, fresh salad. Early night – big day tomorrow! |
+| **17:45** | 🐟 **Porta Nolana Fish Market** | **From Castel dell'Ovo/Lungomare** → Walk back west to Chiaia area (12 min) → Walk to **Porta Nolana Market** (5 min) | Fresh seafood, pasta, tomatoes, mozzarella. Fishmongers grill samples. Budget: £20–25 for family dinner |
+| **18:30** | 🍽️ **Return to Airbnb & Cook** | **From Porta Nolana** → Walk uphill to Chiaia (5 min) → Walk uphill to **Via Giovanni Nicotera 32** (3 min) | **Pasta alle vongole** (clam pasta), grilled fish with lemon, fresh salad. Early night – big day tomorrow! |
 
 [**Back to navigation**](#quick-navigation)
 
@@ -111,7 +112,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 | Time | Activity | Location & Directions | Details |
 |------|----------|---|---------|
-| **10:00** | 🚂 Depart for Pompeii | **From Airbnb (Via Giovanni Nicotera 32)** → Walk downhill to Metro Line 1 (5 min) → **Metro Line 1 to Garibaldi (Centrale) Station** (5 min) | Main transport hub for trains south |
+| **10:00** | 🚂 Depart for Pompeii | **From Airbnb (Via Giovanni Nicotera 32)** → Walk downhill to Chiaia (2 min) → **Metro Line 1 to Garibaldi (Centrale) Station** (5 min) | Main transport hub for trains south |
 | **10:30** | 🚂 **Circumvesuviana Train** | **At Garibaldi Station** → Go to **LOWER LEVEL** → **Circumvesuviana train** (Napoli–Sorrento line) → Get off at **Pompei Scavi** (MUST say "Scavi", not just "Pompeii") | Cost: €3.40/person (included in 5-day pass). Duration: ~35 mins. Trains every 20–30 mins. |
 | **11:00** | 🏛️ **ENTER POMPEII** | ✅ You have your timed ticket (pre-booked)! Validate at entrance. | Sturdy shoes required! Cobblestone terrain is uneven & can twist ankles. |
 | | **Key Highlights** | On-site explorations (4–5 hours) | **The Forum** (heart of city, temples, basilicas) • **Amphitheatre** (one of oldest in world) • **House of the Vettii** (stunning frescoes, wealthy merchant home) • **House of the Mysteries** (famous murals) • **Stabian Baths** (thermal pools, ancient heating) • **Garden of the Fugitives** (plaster casts of bodies) • **Bakery** (ovens intact) • **Thermopolium** (ancient fast-food bar) |
