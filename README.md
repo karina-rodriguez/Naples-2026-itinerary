@@ -14,7 +14,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 - [👨‍👩‍👧‍👦 Trip Overview](#trip-overview)
 - [📅 Full Itinerary](#full-itinerary)
-  - [DAY 1: Arrival & First Taste](#day-1-tuesday-7-april--arrival--first-taste)
+  - [DAY 1: Arrival & First Taste](#day-1-tuesday-7-april--arrival--first-taste-of-naples)
   - [DAY 2: Pompeii Full Day](#day-2-wednesday-8-april--pompeii-full-day)
   - [DAY 3: Museums & Historic Centre](#day-3-thursday-9-april--museums--historic-centre)
   - [DAY 4: Herculaneum & Coastal Sites](#day-4-friday-10-april--herculaneum--coastal-sites)
@@ -26,7 +26,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 ---
 
-## Trip Overview
+## **Trip Overview**
 
 | | |
 |---|---|
