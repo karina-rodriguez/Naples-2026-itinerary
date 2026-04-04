@@ -20,10 +20,12 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
   - [DAY 4: Herculaneum & Coastal Sites](#day-4-friday-10-april--herculaneum--coastal-sites)
   - [DAY 5: Vomero & Local Trattoria](#day-5-saturday-11-april--vomero--local-trattoria)
   - [DAY 6: Departure](#day-6-sunday-12-april--departure)
-- [💰 Budget & Logistics](#budget--logistics)
+- [💰 Budget & Logistics](#budget-and-logistics)
 - [🎫 Booking Checklist](#booking-checklist)
 - [📝 Practical Info](#practical-info)
-- [🍕 Bonus Fuel Stops](#bonus-fuel-stops--pizza-slices--gelato-on-the-go)
+- [🍕 Bonus Fuel Stops](#bonus-fuel-stops)
+
+
 
 ---
 
@@ -178,6 +180,8 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | | | Adults: glass of local wine |
 | | | Finish with limoncello (digestif) or fruit |
 
+[**Back to navigation**](#quick-navigation)
+
 
 ---
 
@@ -234,6 +238,8 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | | | Local wine |
 | | | Relax – you've earned it! |
 
+[**Back to navigation**](#quick-navigation)
+
 ---
 
 ## **DAY 5: Saturday 11 April – Vomero & Local Trattoria**
@@ -279,6 +285,8 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | | | **Pack tonight** for morning flight |
 | **18:30** | 🍽️ **Light Dinner** | Rest after trattoria OR simple pasta at Airbnb if not full |
 
+[**Back to navigation**](#quick-navigation)
+
 ---
 
 ## **DAY 6: Sunday 12 April – Departure**
@@ -301,9 +309,11 @@ _Arrivederci, Naples! But the memories will last forever._
 | | | Bittersweet goodbye 👋 |
 | **10:00** | ✈️ **DEPART NAPLES** | 🏠 Back home! |
 
+[**Back to navigation**](#quick-navigation)
+
 ---
 
-# 💰 Budget & Logistics
+# Budget and Logistics
 
 ## Budget at a Glance
 
@@ -336,9 +346,11 @@ Breakdown:
 
 **IMPORTANT:** Validate all tickets! €50 fine if not validated.
 
+[**Back to navigation**](#quick-navigation)
+
 ---
 
-# 🎫 Booking Checklist
+# Booking Checklist
 
 ## 🔴 BOOK NOW (6–8 weeks before trip)
 
@@ -375,6 +387,8 @@ Breakdown:
 - [ ] Arrive airport 2.5 hours early (international flight)
 - [ ] Check flight status morning-of
 - [ ] Carry-on: chargers, meds, snacks, change of clothes
+
+[**Back to navigation**](#quick-navigation)
 
 ---
 
@@ -446,23 +460,11 @@ Breakdown:
 - Don't flash expensive cameras/phones
 - Local people are friendly; ask for directions if lost
 
----
-
-## **Final Reminders**
-
-✅ **Book Pompeii+ NOW** – timed entries fill up fast  
-✅ **Book Archaeological Museum** – skip queues  
-✅ **Buy transport pass at airport** – saves time & money  
-✅ **Email Airbnb host** – confirm kitchen & get local tips  
-✅ **Pack sturdy shoes** – Pompeii's cobbles are unforgiving  
-✅ **Bring sunscreen** – April sun is stronger than expected  
-✅ **Carry cash** – some markets/street food cash-only  
-✅ **Ask locals for tips** – they know best  
-✅ **Relax & enjoy** – Naples is magical, don't rush  
+[**Back to navigation**](#quick-navigation)
 
 ---
 
-## **BONUS FUEL STOPS: Pizza Slices & Gelato on the Go**
+## **BONUS FUEL STOPS**
 
 
 > 🔥🍕 **For the hungry explorers 🧭** — no sit-down meals, no waiting. Just grab, eat, walk. These are the *secret* spots locals actually go to. Spot the 🔥 for pizza, 🍦 for gelato.
@@ -542,10 +544,27 @@ All prices are rough estimates. Cash usually preferred!
 
 > 💸 **Budget tip:** Most pizza a portafoglio and gelato scoops cost €2–4. Keep a few coins/small notes in your pocket and you're sorted all week without touching the family food budget!
 
+[**Back to navigation**](#quick-navigation)
+
 ---
 
 ## 🍝 Buon viaggio!
 
+## **Final Reminders**
+
+✅ **Book Pompeii+ NOW** – timed entries fill up fast  
+✅ **Book Archaeological Museum** – skip queues  
+✅ **Buy transport pass at airport** – saves time & money  
+✅ **Email Airbnb host** – confirm kitchen & get local tips  
+✅ **Pack sturdy shoes** – Pompeii's cobbles are unforgiving  
+✅ **Bring sunscreen** – April sun is stronger than expected  
+✅ **Carry cash** – some markets/street food cash-only  
+✅ **Ask locals for tips** – they know best  
+✅ **Relax & enjoy** – Naples is magical, don't rush  
+
+[**Back to navigation**](#quick-navigation)
+
+---
 > This itinerary balances culture, history, food, and authentic family moments while respecting your budget, fitness level, and preference for cooking together at your Airbnb.
 >
 > **Enjoy every moment.** Naples is waiting! 🏛️⛵🇮🇹
