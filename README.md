@@ -26,7 +26,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 ---
 
-## 👨‍👩‍👧‍👦 Trip Overview
+## Trip Overview
 
 | | |
 |---|---|
