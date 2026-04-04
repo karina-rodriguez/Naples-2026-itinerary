@@ -456,6 +456,168 @@ Breakdown:
 
 ---
 
+# 🔥🍕 BONUS FUEL STOPS: Pizza Slices & Gelato on the Go
+
+> **For the hungry explorers 🧭** — no sit-down meals, no waiting. Just grab, eat, walk. These are the *secret* spots locals actually go to. Spot the 🔥 for pizza, 🍦 for gelato.
+
+All prices are rough estimates. Cash usually preferred!
+
+---
+
+## 📅 DAY 1 — Tuesday 7 April
+### Via dei Tribunali → Spaccanapoli → Lungomare → Castel dell'Ovo
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥🍕 Antica Pizzeria Di Matteo** | **🍦🐒 Gelateria della Scimmia** |
+| Via dei Tribunali, 94 | Piazza Carità, 4 |
+| The OG street pizza. Get a *pizza a portafoglio* — that's a whole pizza FOLDED into your hand like a wallet. Eat it while walking like a true Neapolitan. €2–3 and your mind will explode. 🤯 | Since 1933. The name means *"monkey gelateria"* (yes, really 🐒). Famous for banana gelato dipped in chocolate. The flavours are old-school and insane. ~€2.50 |
+
+> 🌊 **Lungomare bonus** — Once you hit the seafront, walk a little further west to **Mergellina** for the most legendary gelato in Naples:
+
+| 🍦✨ Chalet Ciro — Via Francesco Caracciolo, Mergellina |
+|---|
+| Open since 1952. Order the **"cono graffa"** — gelato stuffed inside a ring doughnut cone. Yes. A DOUGHNUT CONE. You're welcome. Also try the rum babà gelato if you're feeling adventurous. ~€3–4 |
+
+---
+
+## 📅 DAY 3 — Thursday 9 April
+### Historic Centre → Toledo Metro → Spanish Quarter → Pignasecca
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥⭐ Pizzeria Da Attilio** | **🍦🍫 Gay-Odin** |
+| Via Pignasecca, 17 | Via Benedetto Croce, 61 |
+| Been open since 1938. Famous for their **star-shaped pizza** with ricotta stuffed into every point of the crust. It looks like a pizza had a glow-up. One of the most Instagrammable things in Naples. Budget ~€8–10 for a whole one (share it!) | Not just a chocolate shop — a Naples legend since 1894. Their **"Foresta" gelato** tastes like their famous chocolate bark. Dark choc, hazelnut, creamy goodness. Vegan options too. ~€2.50 |
+
+> 🛤️ **Near Toledo Metro** — On your way through, duck into:
+
+| 🍦🌟 Mennella il Gelato — Via Toledo, 110 |
+|---|
+| They use only local Campanian milk and zero preservatives. Try **pistachio or mulberry** — flavours so good it's actually unfair. Creamy but light. ~€2.50–3 |
+
+---
+
+## 📅 DAY 4 — Friday 10 April
+### Back from Herculaneum → Lungomare → Castel dell'Ovo → Borgo Marinari
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥🌊 Sorbillo Lievito Madre al Mare** | **🍦🌅 ROL Gelateria** |
+| Piazza Vittoria, 5 | Via Partenope, 12/M |
+| The seaside branch of *the* most famous pizza family in Naples — and it's less chaotic than the main one. Same incredible light dough, same legendary taste, but you can actually *see the bay* while eating it. Worth it. ~€5–7 | Literally on the seafront promenade. Seasonal flavours, fresh ingredients. Sit on the wall, eat gelato, stare at Vesuvius across the water. That's the whole vibe. ~€3 |
+
+---
+
+## 📅 DAY 5 — Saturday 11 April
+### Vomero → Certosa di San Martino → Pignasecca Market → Lungomare finale
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥🏔️ Pizzeria Errico Porzio** | **🍦👑 Gelateria Soave** |
+| Via Alessandro Scarlatti, 84, Vomero | Via Alessandro Scarlatti, 151, Vomero |
+| Up in Vomero, this is where locals actually eat. No tourist menus, no inflated prices. Just proper Neapolitan pizza done right. Great spot after coming down from San Martino. ~€5–8 | Since 1950. Dense, creamy, real-deal artisanal gelato. This is not the watery tourist stuff — it's thick and flavour-packed. Try **nocciola (hazelnut)** or **stracciatella**. The locals have been coming here for 70+ years for a reason. ~€2.50 |
+
+> 🌊 **On the final Lungomare stroll** — circle back to Chalet Ciro one more time if you didn't make it on Day 1. The doughnut cone deserves a second chance.
+
+---
+
+### 🎯 Quick Spotter's Guide (print this out!)
+
+| Icon | What it means |
+|---|---|
+| 🔥🍕 | Street pizza — grab & go, eat while walking |
+| 🍦✨ | Top-tier gelato — worth a small detour |
+| 🐒 | The monkey gelato place (Gelateria della Scimmia) |
+| 🌊 | Seafront spot — views included for free |
+| ⭐ | Star-shaped pizza — for the gram 📸 |
+| 👑 | OG local legend — been there since before your parents were born |
+
+> 💸 **Budget tip:** Most pizza a portafoglio and gelato scoops cost €2–4. Keep a few coins/small notes in your pocket and you're sorted all week without touching the family food budget!
+
+---
+
+# 🔥🍕 BONUS FUEL STOPS: Pizza Slices & Gelato on the Go
+
+> **For the hungry explorers 🧭** — no sit-down meals, no waiting. Just grab, eat, walk. These are the *secret* spots locals actually go to. Spot the 🔥 for pizza, 🍦 for gelato.
+
+All prices are rough estimates. Cash usually preferred!
+
+---
+
+## 📅 DAY 1 — Tuesday 7 April
+### Via dei Tribunali → Spaccanapoli → Lungomare → Castel dell'Ovo
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥🍕 Antica Pizzeria Di Matteo** | **🍦🐒 Gelateria della Scimmia** |
+| Via dei Tribunali, 94 | Piazza Carità, 4 |
+| The OG street pizza. Get a *pizza a portafoglio* — that's a whole pizza FOLDED into your hand like a wallet. Eat it while walking like a true Neapolitan. €2–3 and your mind will explode. 🤯 | Since 1933. The name means *"monkey gelateria"* (yes, really 🐒). Famous for banana gelato dipped in chocolate. The flavours are old-school and insane. ~€2.50 |
+
+> 🌊 **Lungomare bonus** — Once you hit the seafront, walk a little further west to **Mergellina** for the most legendary gelato in Naples:
+
+| 🍦✨ Chalet Ciro — Via Francesco Caracciolo, Mergellina |
+|---|
+| Open since 1952. Order the **"cono graffa"** — gelato stuffed inside a ring doughnut cone. Yes. A DOUGHNUT CONE. You're welcome. Also try the rum babà gelato if you're feeling adventurous. ~€3–4 |
+
+---
+
+## 📅 DAY 3 — Thursday 9 April
+### Historic Centre → Toledo Metro → Spanish Quarter → Pignasecca
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥⭐ Pizzeria Da Attilio** | **🍦🍫 Gay-Odin** |
+| Via Pignasecca, 17 | Via Benedetto Croce, 61 |
+| Been open since 1938. Famous for their **star-shaped pizza** with ricotta stuffed into every point of the crust. It looks like a pizza had a glow-up. One of the most Instagrammable things in Naples. Budget ~€8–10 for a whole one (share it!) | Not just a chocolate shop — a Naples legend since 1894. Their **"Foresta" gelato** tastes like their famous chocolate bark. Dark choc, hazelnut, creamy goodness. Vegan options too. ~€2.50 |
+
+> 🛤️ **Near Toledo Metro** — On your way through, duck into:
+
+| 🍦🌟 Mennella il Gelato — Via Toledo, 110 |
+|---|
+| They use only local Campanian milk and zero preservatives. Try **pistachio or mulberry** — flavours so good it's actually unfair. Creamy but light. ~€2.50–3 |
+
+---
+
+## 📅 DAY 4 — Friday 10 April
+### Back from Herculaneum → Lungomare → Castel dell'Ovo → Borgo Marinari
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥🌊 Sorbillo Lievito Madre al Mare** | **🍦🌅 ROL Gelateria** |
+| Piazza Vittoria, 5 | Via Partenope, 12/M |
+| The seaside branch of *the* most famous pizza family in Naples — and it's less chaotic than the main one. Same incredible light dough, same legendary taste, but you can actually *see the bay* while eating it. Worth it. ~€5–7 | Literally on the seafront promenade. Seasonal flavours, fresh ingredients. Sit on the wall, eat gelato, stare at Vesuvius across the water. That's the whole vibe. ~€3 |
+
+---
+
+## 📅 DAY 5 — Saturday 11 April
+### Vomero → Certosa di San Martino → Pignasecca Market → Lungomare finale
+
+| 🔥 PIZZA | 🍦 GELATO |
+|---|---|
+| **🔥🏔️ Pizzeria Errico Porzio** | **🍦👑 Gelateria Soave** |
+| Via Alessandro Scarlatti, 84, Vomero | Via Alessandro Scarlatti, 151, Vomero |
+| Up in Vomero, this is where locals actually eat. No tourist menus, no inflated prices. Just proper Neapolitan pizza done right. Great spot after coming down from San Martino. ~€5–8 | Since 1950. Dense, creamy, real-deal artisanal gelato. This is not the watery tourist stuff — it's thick and flavour-packed. Try **nocciola (hazelnut)** or **stracciatella**. The locals have been coming here for 70+ years for a reason. ~€2.50 |
+
+> 🌊 **On the final Lungomare stroll** — circle back to Chalet Ciro one more time if you didn't make it on Day 1. The doughnut cone deserves a second chance.
+
+---
+
+### 🎯 Quick Spotter's Guide (print this out!)
+
+| Icon | What it means |
+|---|---|
+| 🔥🍕 | Street pizza — grab & go, eat while walking |
+| 🍦✨ | Top-tier gelato — worth a small detour |
+| 🐒 | The monkey gelato place (Gelateria della Scimmia) |
+| 🌊 | Seafront spot — views included for free |
+| ⭐ | Star-shaped pizza — for the gram 📸 |
+| 👑 | OG local legend — been there since before your parents were born |
+
+> 💸 **Budget tip:** Most pizza a portafoglio and gelato scoops cost €2–4. Keep a few coins/small notes in your pocket and you're sorted all week without touching the family food budget!
+
+---
+
 ## 🍝 Buon viaggio!
 
 > This itinerary balances culture, history, food, and authentic family moments while respecting your budget, fitness level, and preference for cooking together at your Airbnb.
