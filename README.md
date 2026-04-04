@@ -53,7 +53,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 | Destination | Route | Duration | Cost |
 |---|---|---|---|
-| **Airport (arriving)** | Alibus (€5) to Garibaldi Station (20 min) → Metro Line 1 to Vanvitelli (5 min) → Walk uphill to Giovanni Nicotera 32 (5 min) | ~40 mins | €6.10 |
+| **Airport (arriving)** | Alibus shuttle service (€5 per person) to Naples Immacolatella Porta Di Massa, 80133 Napoli NA, Italy (33 min) → Walk to Metro Line 6 Municipio to Chiaia 1 stop (2 min) → Walk uphill to Giovanni Nicotera 32 (3 min) | ~55 mins | Biglietto Settimanale costs €15.80 per person, and will last for whole week. Total €20.80 |
 | **Historic Centre** | Walk downhill to Via Toledo (5 min) OR Metro Line 1 from Vanvitelli (2 stops to Dante) | 10–15 min | Included in 5-day pass |
 | **Garibaldi Station** (trains to Pompeii/Herculaneum) | Walk downhill (20 min) OR Metro Line 1 to Garibaldi (5 min) | 5–20 min | Included in 5-day pass |
 | **Airport (departing)** | Walk downhill (5 min) → Metro Line 1 to Garibaldi (5 min) → Alibus (€5) to airport (20 min) | ~35 mins | €5 |
