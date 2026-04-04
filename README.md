@@ -13,6 +13,7 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 **Jump to a specific day:**
 
 - [👨‍👩‍👧‍👦 Trip Overview](#trip-overview)
+- [📍 Airbnb Location & Getting There](#airbnb-location--getting-there)
 - [📅 Full Itinerary](#full-itinerary)
   - [DAY 1: Arrival & First Taste](#day-1-tuesday-7-april--arrival--first-taste-of-naples)
   - [DAY 2: Pompeii Full Day](#day-2-wednesday-8-april--pompeii-full-day)
@@ -37,8 +38,25 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 | **Dates** | Tuesday 7 – Sunday 12 April 2026 |
 | **Duration** | 5 nights, 5 full days |
 | **Budget** | £750 (we're at ~£770 – very close!) |
-| **Base** | Airbnb in Naples (cook our own meals) |
+| **Base** | Airbnb: Via Giovanni Nicotera 32, Naples (Vomero neighbourhood) |
 | **Transport** | Public metro + Circumvesuviana train |
+
+---
+
+## 📍 **Airbnb Location & Getting There**
+
+**Address:** Via Giovanni Nicotera 32, Naples  
+**Neighbourhood:** Vomero (hillside residential area, north of historic centre)  
+**Access:** Near Metro Line 1 (Vanvitelli stop) and Funicolare Centrale
+
+### Quick Navigation from Airbnb
+
+| Destination | Route | Duration | Cost |
+|---|---|---|---|
+| **Airport (arriving)** | Alibus (€5) to Garibaldi Station (20 min) → Metro Line 1 to Vanvitelli (5 min) → Walk uphill to Giovanni Nicotera 32 (5 min) | ~40 mins | €6.10 |
+| **Historic Centre** | Walk downhill to Via Toledo (5 min) OR Metro Line 1 from Vanvitelli (2 stops to Dante) | 10–15 min | Included in 5-day pass |
+| **Garibaldi Station** (trains to Pompeii/Herculaneum) | Walk downhill (20 min) OR Metro Line 1 to Garibaldi (5 min) | 5–20 min | Included in 5-day pass |
+| **Airport (departing)** | Walk downhill (5 min) → Metro Line 1 to Garibaldi (5 min) → Alibus (€5) to airport (20 min) | ~35 mins | €5 |
 
 ---
 
@@ -46,30 +64,29 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 ## **DAY 1: Tuesday 7 April – Arrival & First Taste of Naples**
 
-**Timing:** 12:00–18:30
+**Timing:** 12:00–18:30  
+**Base:** Via Giovanni Nicotera 32
 
 ![Pizza, Naples](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pizza_vesuv.jpg/960px-Pizza_vesuv.jpg)
 
-| Time | Activity | Details |
-|------|----------|---------|
-| **12:00** | ✈️ Arrive Naples | Capodichino Airport |
-| **13:00** | 🏠 Check in Airbnb | Coordinate with host, drop bags, freshen up |
-| **13:45** | 🎫 Buy transport pass | €25/person (Campania Unica – covers all transport for 5 days) |
-| **14:00** | 🍕 **Pizza Alley** | Head to **Via dei Tribunali** – eat classic Margherita/Marinara folded Naples-style |
-| | | Try: L'Antica Pizzeria da Michele OR Franco Pepe Pizzeria |
-| | | Budget: €5–8 per person |
-| **15:00** | 🚶 **Spaccanapoli Walk** | Ancient street cutting through city's heart (UNESCO site) |
-| | | See: Church of Gesù Nuovo (free), Santa Chiara cloister (€6) |
-| | | Spot Diego Maradona murals in Spanish Quarter |
-| | | Browse nativity scene crafts on Via San Gregorio Armeno |
-| **16:45** | 🏰 **Piazza del Plebiscito** | Naples' grandest square (free), Royal Palace exterior |
-| | | Walk **Lungomare** waterfront – views of Mt Vesuvius across bay |
-| | | **Castel dell'Ovo** – medieval castle (free exterior, €1 interior) |
-| **17:45** | 🐟 **Porta Nolana Fish Market** | Fresh seafood, pasta, tomatoes, mozzarella |
-| | | Fishmongers grill samples – try before you buy |
-| | | Budget: £20–25 for family dinner |
-| **18:30** | 🍽️ **Cook at Airbnb** | **Pasta alle vongole** (clam pasta), grilled fish with lemon, fresh salad |
-| | | Early night – big day tomorrow! |
+| Time | Activity | Location & Directions | Details |
+|------|----------|---|---------|
+| **12:00** | ✈️ Arrive Naples | **Capodichino Airport (NAP)** – 7 km north of city | Check luggage, exit terminal |
+| **12:30** | 🚌 Alibus to City | **Alibus bus** (€5/person) – runs every 15–20 mins → **Naples Garibaldi (Centrale) Station** – 20 min journey | Get tickets at kiosk. Validate on boarding. |
+| **13:00** | 🏠 Check in Airbnb | **Garibaldi Station** → Metro Line 1 → **Vanvitelli stop** (5 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) OR local taxi (€5–8, 5 min) | Text Airbnb host with ETA. Drop bags, freshen up. |
+| **13:45** | 🎫 Buy transport pass | **At Vanvitelli Metro stop** or **Garibaldi Station** | €25/person (Campania Unica – covers all transport 5 days: metro, buses, trains, funiculars) |
+| **14:00** | 🍕 **Pizza Alley** | **From Airbnb** → Walk downhill to Via Toledo (5 min) → Walk to **Via dei Tribunali** (10 min) OR Metro Line 1 to Dante (10 min) | **Try:** L'Antica Pizzeria da Michele (Via dei Tribunali 94) OR Franco Pepe Pizzeria |
+| | | | Eat classic Margherita/Marinara folded Naples-style. Budget: €5–8 per person |
+| **15:00** | 🚶 **Spaccanapoli Walk** | **Via dei Tribunali** → Walk south along **Spaccanapoli** (UNESCO street, 10 min) – direct pedestrian route | Ancient street cutting through city's heart |
+| | | **Church of Gesù Nuovo** (Piazza del Gesù Nuovo, 5 min walk) | Free entry |
+| | | **Santa Chiara Cloister** (Piazza Santa Chiara, off Spaccanapoli, 5 min walk) | €6 entry |
+| | | **Via San Gregorio Armeno** (off Spaccanapoli, 5 min walk) | Browse nativity scene crafts year-round |
+| | | **Spanish Quarter** (Quartieri Spagnoli, west of Spaccanapoli, 10 min walk) | Spot Diego Maradona murals, labyrinthine streets, very local |
+| **16:45** | 🏰 **Piazza del Plebiscito** | **From Spaccanapoli** → Walk south through historic centre (15 min) OR **Metro Line 1 to Plebiscito stop** (5 min) | Naples' grandest square (free), Royal Palace exterior |
+| | | **Lungomare waterfront** (east from Piazza, 10 min walk) | Views of Mt Vesuvius across bay, scenic promenade |
+| | | **Castel dell'Ovo** (east end of Lungomare, 10 min walk) | Medieval castle, free exterior, €1 interior |
+| **17:45** | 🐟 **Porta Nolana Fish Market** | **From Castel dell'Ovo** → Walk back west (15 min) OR **Metro Line 1 to Garibaldi** (5 min) → Walk east to **Porta Nolana** (5 min from station) | Fresh seafood, pasta, tomatoes, mozzarella. Fishmongers grill samples. Budget: £20–25 for family dinner |
+| **18:30** | 🍽️ **Return to Airbnb & Cook** | **From Porta Nolana** → **Metro Line 1 to Vanvitelli** (10 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | **Pasta alle vongole** (clam pasta), grilled fish with lemon, fresh salad. Early night – big day tomorrow! |
 
 [**Back to navigation**](#quick-navigation)
 
@@ -77,7 +94,8 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 ## **DAY 2: Wednesday 8 April – Pompeii Full Day**
 
-**Timing:** 10:00–17:00 (4–5 hours on site)
+**Timing:** 10:00–17:00 (4–5 hours on site)  
+**Base:** Via Giovanni Nicotera 32
 
 ![Pompeii Amphitheatre](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/House_two_floors_Pompeii_Italy.jpg/960px-House_two_floors_Pompeii_Italy.jpg)
 
@@ -91,38 +109,18 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 - **Important:** Tickets are personal (ID required at gate)
 - **Rule:** Must arrive within 15 mins of your timed slot
 
-| Time | Activity | Details |
-|------|----------|---------|
-| **10:00** | 🚂 Depart for Pompeii | Walk to Naples Garibaldi Station (Centrale) |
-| **10:30** | 🚂 **Circumvesuviana Train** | Napoli–Sorrento line → Pompei Scavi (not just "Pompeii" station) |
-| | | Cost: €3.40/person (included in 5-day pass) |
-| | | Duration: ~35 mins |
-| **11:00** | 🏛️ **ENTER POMPEII** | ✅ You have your timed ticket! |
-| | | **Valid for 4–5 hours** – take your time |
-| | | 👟 **WEAR STURDY SHOES!** Basalt cobbles are uneven & can twist ankles |
-| **Key Highlights** | 🗿 | **The Forum** – heart of city, temples, basilicas |
-| | | **Amphitheatre** – one of oldest in world |
-| | | **House of the Vettii** – stunning frescoes, wealthy merchant home |
-| | | **House of the Mysteries** – famous erotic murals (age-appropriate in context!) |
-| | | **Stabian Baths** – thermal pools, ancient heating systems |
-| | | **Garden of the Fugitives** – plaster casts of bodies (powerful, moving) |
-| | | **Bakery** – ovens still intact, ancient bread shapes visible |
-| | | **Thermopolium** – ancient fast-food bar with counter |
-| **Practicalities** | 💧 | Water fountains throughout site (refill bottles) |
-| | | Site café available if needed |
-| | | Shade is limited – bring sun protection |
-| | | Excellent signage & maps at entrance |
-| **14:30** | 🥪 **Lunch break** | Option A: Picnic from Airbnb (£3/person) – eat in shaded spot |
-| | | Option B: Site café (basic, ~€8/person) |
-| | | **Hydrate well!** |
-| **15:00** | 🚂 **Return to Naples** | Circumvesuviana back to Garibaldi (trains every 30 mins) |
-| | | ~35 min journey |
-| | | Arrive Naples by **15:45** |
-| **16:00** | 🐟 **Porta Nolana Fish Market** (optional) | If energy permits: stock fresh seafood for dinner |
-| | | Otherwise: grab pre-made food from supermarket |
-| **17:00** | 🏠 **Back to Airbnb** | Rest, freshen up, legs up! |
-| **18:00** | 🍽️ **Cook dinner** | Grilled or baked fish, pasta, salad |
-| | | Early night – you'll be tired but exhilarated |
+| Time | Activity | Location & Directions | Details |
+|------|----------|---|---------|
+| **10:00** | 🚂 Depart for Pompeii | **From Airbnb (Via Giovanni Nicotera 32)** → Walk downhill to Metro Line 1 (5 min) → **Metro Line 1 to Garibaldi (Centrale) Station** (5 min) | Main transport hub for trains south |
+| **10:30** | 🚂 **Circumvesuviana Train** | **At Garibaldi Station** → Go to **LOWER LEVEL** → **Circumvesuviana train** (Napoli–Sorrento line) → Get off at **Pompei Scavi** (MUST say "Scavi", not just "Pompeii") | Cost: €3.40/person (included in 5-day pass). Duration: ~35 mins. Trains every 20–30 mins. |
+| **11:00** | 🏛️ **ENTER POMPEII** | ✅ You have your timed ticket (pre-booked)! Validate at entrance. | Sturdy shoes required! Cobblestone terrain is uneven & can twist ankles. |
+| | **Key Highlights** | On-site explorations (4–5 hours) | **The Forum** (heart of city, temples, basilicas) • **Amphitheatre** (one of oldest in world) • **House of the Vettii** (stunning frescoes, wealthy merchant home) • **House of the Mysteries** (famous murals) • **Stabian Baths** (thermal pools, ancient heating) • **Garden of the Fugitives** (plaster casts of bodies) • **Bakery** (ovens intact) • **Thermopolium** (ancient fast-food bar) |
+| | | Practicalities | Water fountains throughout site. Site café available. Shade is limited – bring sun protection. Maps & signage at entrance. |
+| **14:30** | 🥪 **Lunch Break** | **On-site or nearby** | Option A: Picnic from Airbnb (£3/person) – eat in shaded spot. Option B: Site café (~€8/person). Hydrate well! |
+| **15:00** | 🚂 **Return to Naples** | **At Pompei Scavi** → **Circumvesuviana train back to Garibaldi** (Napoli direction) | Trains every 20–30 mins. ~35 min journey. Arrive Naples by 15:45. |
+| **16:00** | 🐟 **Porta Nolana Fish Market** (optional) | **From Garibaldi Station** → Walk east 5 min to **Porta Nolana Market** | If energy permits: stock fresh seafood for dinner |
+| **17:00** | 🏠 **Return to Airbnb** | **From Garibaldi** → **Metro Line 1 to Vanvitelli** (5 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | Rest, freshen up, legs up! |
+| **18:00** | 🍽️ **Cook dinner** | **At Airbnb** | Grilled or baked fish, pasta, salad. Early night – you'll be tired but exhilarated. |
 
 [**Back to navigation**](#quick-navigation)
 
@@ -130,7 +128,8 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 ## **DAY 3: Thursday 9 April – Museums & Historic Centre**
 
-**Timing:** 10:00–18:30
+**Timing:** 10:00–18:30  
+**Base:** Via Giovanni Nicotera 32
 
 ![Naples Cathedral](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Naples_Cathedral_-_Duomo_di_Napoli%2C_Façade_%285315-Pan%29.jpg/960px-Naples_Cathedral_-_Duomo_di_Napoli%2C_Façade_%285315-Pan%29.jpg)
 
@@ -139,55 +138,26 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 - **Cost:** €12/adult, **under-18 FREE**
 - **Why pre-book:** Skip 1+ hour queues, save €2/person
 
-| Time | Activity | Details |
-|------|----------|---------|
-| **10:00** | 🏛️ **Archaeological Museum (MANN)** | Home to world's finest Roman artefacts from Pompeii & Herculaneum |
-| | | **Duration:** 2.5–3 hours |
-| | | **Location:** Metro Line 1 → "Museo" stop |
-| **Must-See Exhibits** | ✨ | **Mosaics** – House of the Faun's "Alexander the Great battle" |
-| | | **Frescoes** – stunning wall paintings from Pompeii homes |
-| | | **Bronze sculptures** – beautifully preserved |
-| | | **Secret Cabinet (Gabinetto Segreto)** – erotic art collection (kids find it amusing & educational) |
-| | | **Plaster casts** – bodies from eruption (powerful & moving) |
-| **13:00** | 🍽️ **Lunch at Airbnb** | Head back to accommodation |
-| | | Quick meal (€3–5/person) – pasta, cheese, leftovers |
-| | | Rest & recharge for afternoon |
-| **14:00** | 🚶 **Duomo & Historic Centre** | Walk through Naples' UNESCO historic centre |
-| | | **Duomo (Cathedral)** – free entry, magnificent interior |
-| | | **Chapel of San Gennaro** – glittering gold, baroque splendour |
-| | | See street vendors, local life, narrow alleyways |
-| | | **Via San Gregorio Armeno** – nativity scene crafts year-round |
-| **15:15** | 🕳️ **Napoli Sotterranea** (optional) | Underground Naples – 2,400-year-old network |
-| | | **What:** Greek aqueducts + WWII shelters |
-| | | **Guided tour:** ~1 hour, fascinating for all ages |
-| | | **Cost:** €12/adult, €5–8/children |
-| | | **Book:** On arrival or online (search "Napoli Sotterranea") |
-| **16:30** | 🎨 **Toledo Metro Station** | Voted Europe's most beautiful metro station |
-| | | Marvel at mosaic interiors & artistic tiles (10 mins, FREE) |
-| | | **Walk into Spanish Quarter** – labyrinthine streets |
-| | | Spot **Diego Maradona murals** (local hero) |
-| | | See local life: laundry lines, street vendors, locals playing cards |
-| | | *Be aware of pickpockets in crowds* |
-| **17:15** | 🛒 **Supermarket** | Pick up Campanian specialities for dinner: |
-| | | Fresh pasta (tagliatelle, spaghetti, pappardelle) |
-| | | San Marzano tomatoes (canned fine) |
-| | | **Mozzarella di bufala** (local treasure, ~€4) |
-| | | Fresh basil, local wine (€5–10), limoncello (€8–12) |
-| | | Budget: £20–25 |
-| **18:30** | 🍽️ **Cook Neapolitan Dinner** | **Spaghetti al pomodoro** (tomatoes, garlic, basil, olive oil) – perfection |
-| | | OR **Pasta e fagioli** (pasta & beans, hearty, family-friendly) |
-| | | Fresh salad, mozzarella di bufala on side |
-| | | Adults: glass of local wine |
-| | | Finish with limoncello (digestif) or fruit |
+| Time | Activity | Location & Directions | Details |
+|------|----------|---|---------|
+| **10:00** | 🏛️ **Archaeological Museum (MANN)** | **From Airbnb (Via Giovanni Nicotera 32)** → **Metro Line 1** → **Museo stop** (direct line, ~10 min) | World's finest Roman artefacts from Pompeii & Herculaneum. Duration: 2.5–3 hours. ✅ **PRE-BOOK on coopculture.it (€12/adult, under-18 FREE)** |
+| | **Must-See Exhibits** | On-site | **Mosaics** (House of the Faun's Alexander the Great battle) • **Frescoes** (stunning wall paintings) • **Bronze sculptures** (beautifully preserved) • **Secret Cabinet/Gabinetto Segreto** (erotic art collection – kids find it amusing!) • **Plaster casts** (bodies from eruption – powerful & moving) |
+| **13:00** | 🍽️ **Lunch at Airbnb** | **From MANN** → **Metro Line 1 to Vanvitelli** (10 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | Quick meal (€3–5/person) – pasta, cheese, leftovers. Rest & recharge for afternoon. |
+| **14:00** | 🚶 **Duomo & Historic Centre** | **From Airbnb** → Walk downhill to historic centre (15 min) OR **Metro Line 1** → various stops in centre | **Duomo (Cathedral)** (Piazza del Duomo) – free entry, magnificent interior • **Chapel of San Gennaro** – glittering gold, baroque splendour • **Via San Gregorio Armeno** – nativity scene crafts year-round |
+| **15:15** | 🕳️ **Napoli Sotterranea** (optional) | **In historic centre** → Tour meets at **Piazza San Gaetano** (historic centre, walking distance) | Underground Naples – 2,400-year-old aqueducts + WWII shelters. Guided tour: ~1 hour, fascinating for all ages. **Book online or on arrival: napolisotterranea.org**. Cost: €12/adult, €5–8/children |
+| **16:30** | 🎨 **Toledo Metro Station** | **From historic centre** → **Metro Line 1 to Toledo stop** (central, direct access) | Voted Europe's most beautiful metro station. Marvel at mosaic interiors & artistic tiles (10 mins, FREE). |
+| | | **Spanish Quarter nearby** (5 min walk west from Toledo) | **Diego Maradona murals** (scattered throughout). Local life: laundry lines, street vendors, locals playing cards. *Be aware of pickpockets – keep valuables secure* |
+| **17:15** | 🛒 **Supermarket** | **From Spanish Quarter** → Walk to **Carrefour Express** or local **supermercato** in historic centre (5–10 min walk) | Pick up Campanian specialities: Fresh pasta • San Marzano tomatoes • **Mozzarella di bufala** (€4) • Fresh basil • Local wine (€5–10) • Limoncello (€8–12). Budget: £20–25 |
+| **18:30** | 🍽️ **Return to Airbnb & Cook** | **From supermarket** → **Metro Line 1 to Vanvitelli** (10 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | **Spaghetti al pomodoro** (tomatoes, garlic, basil, olive oil) OR **Pasta e fagioli** (pasta & beans). Fresh salad, mozzarella di bufala on side. Adults: local wine. Finish with limoncello. |
 
 [**Back to navigation**](#quick-navigation)
-
 
 ---
 
 ## **DAY 4: Friday 10 April – Herculaneum & Coastal Sites**
 
-**Timing:** 10:00–18:00
+**Timing:** 10:00–18:00  
+**Base:** Via Giovanni Nicotera 32
 
 ![Herculaneum Ruins](https://upload.wikimedia.org/wikipedia/commons/9/98/Casa_dell%27Albergo_%28Herculaneum%29_03.jpg)
 
@@ -197,46 +167,19 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 - **Why:** Less crowded than Pompeii, arguably better preserved (buried in mud, not ash)
 - **Unique:** Wooden furniture, food, textiles preserved – something you can't see at Pompeii
 
-| Time | Activity | Details |
-|------|----------|---------|
-| **10:00** | 🚂 Depart for Herculaneum | Head to Naples Garibaldi Station |
-| **10:20** | 🚂 **Circumvesuviana Train** | Same line as Pompeii, but **get off earlier** |
-| | | **Stop:** Ercolano Scavi (not full name "Ercolano Scavi") |
-| | | Cost: €2.20/person (included in 5-day pass) |
-| | | Duration: Only ~20 mins |
-| | | Walk downhill ~10 mins to site entrance |
-| **10:30** | 🏛️ **ENTER HERCULANEUM** | ✅ You have your timed ticket! |
-| | | **Duration:** 2.5–3 hours |
-| | | **Smaller than Pompeii** – easier for younger kids, fewer crowds |
-| **Must-See Highlights** | ✨ | **The Boathouses** – 300 skeletons visible (explain context to children) |
-| | | **House of Neptune & Amphitrite** – beautiful mosaic, upper floors intact |
-| | | **Thermopolium** – ancient fast-food bar, storage jars, carbonized food |
-| | | **Upper-floor buildings** – rare to see multiple storeys (shows how people lived) |
-| | | **Casa dell'Atrio a Mosaico** – stunning mosaic floors |
-| **Practicalities** | 💧 | Smaller, quieter site = more peaceful experience |
-| | | Shade available in some areas |
-| | | Water fountains throughout |
-| | | Bring sun protection |
-| **13:30** | 🥪 **Picnic Lunch** | Option A: Bring from Airbnb (cheese, bread, fruit, drinks – £3/person) |
-| | | Sit on site's viewing terrace – stunning views of excavations below sea level |
-| | | Option B: Local bar in Ercolano town (€3–5/person) |
-| **14:30** | 🚂 **Return to Naples** | Circumvesuviana back to Garibaldi |
-| | | Arrive by ~15:00 |
-| | | This leaves free afternoon! |
-| **15:00** | 🏰 **Castel Nuovo** (optional) | Grand medieval castle right on the port |
-| | | Entry: €6 (Civic Museum inside) |
-| | | OR walk free exterior, view from ramparts |
-| | | Great views of Naples harbour, photogenic triumphal arch |
-| **16:15** | 🚶 **Lungomare & Castel dell'Ovo** | Walk seafront promenade |
-| | | **Castel dell'Ovo** – Naples' oldest castle on headland |
-| | | Free entry (check opening status – may be renovating) |
-| | | Walk around exterior & **Borgo Marinari** (beautiful spot, sunset photos) |
-| **17:00** | 🐟 **Shop for Dinner** | If energy permits: pick up fresh catch at fishmonger (£10–15) |
-| | | Otherwise: supermarket pre-made food |
-| **18:00** | 🍽️ **Cook Seafood Dinner** | Classic **baked fish with cherry tomatoes & olives** |
-| | | Fresh pasta with seafood |
-| | | Local wine |
-| | | Relax – you've earned it! |
+| Time | Activity | Location & Directions | Details |
+|------|----------|---|---------|
+| **10:00** | 🚂 Depart for Herculaneum | **From Airbnb (Via Giovanni Nicotera 32)** → Walk downhill to Metro Line 1 (5 min) → **Metro Line 1 to Garibaldi (Centrale) Station** (5 min) | Main transport hub |
+| **10:20** | 🚂 **Circumvesuviana Train** | **At Garibaldi Station** → **LOWER LEVEL** → **Circumvesuviana train** (Napoli–Sorrento line, same as Pompeii, but get off earlier) → Get off at **Ercolano Scavi** (MUST say "Scavi", not just "Ercolano") | Cost: €2.20/person (included in 5-day pass). Duration: ~20 mins. Trains every 20–30 mins. Walk downhill ~10 mins to site entrance. |
+| **10:30** | 🏛️ **ENTER HERCULANEUM** | ✅ You have your timed ticket (pre-booked on coopculture.it)! | Duration: 2.5–3 hours. Smaller, quieter site than Pompeii – easier for younger kids, fewer crowds. |
+| | **Must-See Highlights** | On-site explorations | **The Boathouses** (300 skeletons visible) • **House of Neptune & Amphitrite** (beautiful mosaic, upper floors intact) • **Thermopolium** (ancient fast-food bar, carbonized food, storage jars) • **Casa dell'Atrio a Mosaico** (stunning mosaic floors) • **Upper-floor buildings** (rare to see multi-storey homes) |
+| | | Practicalities | Smaller, quieter site = more peaceful experience. Shade in some areas. Water fountains throughout. Bring sun protection. |
+| **13:30** | 🥪 **Picnic Lunch** | **On-site** (viewing terrace with stunning views) OR **local bar in Ercolano town** (nearby) | Option A: Bring from Airbnb (cheese, bread, fruit, drinks – £3/person). Option B: Local bar (€3–5/person). Sit on viewing terrace – see excavations below sea level! |
+| **14:30** | 🚂 **Return to Naples** | **At Ercolano Scavi** → **Circumvesuviana train back to Garibaldi** (Napoli direction) | Trains every 20–30 mins. ~20 min journey. Arrive Naples by ~15:00. This leaves free afternoon! |
+| **15:00** | 🏰 **Castel Nuovo** (optional) | **From Garibaldi Station** → Walk south to waterfront (10 min) → **Castel Nuovo** (on port) | Grand medieval castle right on the port. Entry: €6 (Civic Museum inside) OR free exterior. Great views of harbour, photogenic triumphal arch. |
+| **16:15** | 🚶 **Lungomare & Castel dell'Ovo** | **From Castel Nuovo** → Walk east along **Lungomare** (beautiful seafront promenade, 10–15 min) | **Castel dell'Ovo** (Naples' oldest castle on headland, at east end of Lungomare). Free entry (check status). Walk around exterior & **Borgo Marinari** (beautiful sunset spot). |
+| **17:00** | 🐟 **Shop for Dinner** | **From waterfront** → **Metro Line 1 to Garibaldi** (5 min) → Walk to **Porta Nolana Fish Market** (5 min from station) | If energy permits: pick up fresh catch (£10–15). Otherwise: supermarket pre-made food. |
+| **18:00** | 🍽️ **Return to Airbnb & Cook** | **From market** → **Metro Line 1 to Vanvitelli** (5 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | Classic **baked fish with cherry tomatoes & olives**. Fresh pasta with seafood. Local wine. Relax – you've earned it! |
 
 [**Back to navigation**](#quick-navigation)
 
@@ -244,46 +187,24 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 ## **DAY 5: Saturday 11 April – Vomero & Local Trattoria**
 
-**Timing:** 10:00–18:30
+**Timing:** 10:00–18:30  
+**Base:** Via Giovanni Nicotera 32
 
 ![Castel Sant'Elmo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/960px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg)
 
 **SPECIAL:** One meal out at a genuine local trattoria (not touristy)
 
-| Time | Activity | Details |
-|------|----------|---------|
-| **10:00** | 🚡 **Funicular to Vomero** | Take **Funicolare Centrale** from Via Toledo |
-| | | (near Metro Line 1 stops) |
-| | | Included in 5-day transport pass |
-| **10:30** | ⛪ **Certosa di San Martino** | Baroque monastery with stunning cloister, artworks, views |
-| | | **Entry:** €6/person |
-| | | **Duration:** 2 hours |
-| | | **THE HIGHLIGHT:** 360° views of entire bay |
-| | | ✨ See at once: Vesuvius, Pompeii, Herculaneum, islands |
-| | | Perfect photo opportunity! Geography of trip comes together here |
-| **12:00** | 🚡 **Descend to City Centre** | Take funicular back down |
-| | | Return to Airbnb area |
-| **13:00** | 🍽️ **Lunch at Airbnb** | Quick meal (€3–5/person) |
-| | | Fresh pasta, leftovers, simple & family-friendly |
-| | | Rest & recharge for afternoon |
-| **14:15** | 🛒 **Pignasecca Market** | One of Naples' oldest street markets |
-| | | Browse: fresh produce, cheese, charcuterie, street food |
-| | | Energetic, local, authentic vibe |
-| | | Pick up ingredients & souvenirs |
-| | | Budget: £10–15 |
-| **15:15** | 🍴 **LOCAL TRATTORIA – SPECIAL TREAT!** | ⭐ **ASK AIRBNB HOST FOR RECOMMENDATION** |
-| | | **What to ask for:** "Un buon posto per mangiare con i bambini" |
-| | | ("A good place to eat with children") |
-| | | **Look for:** Family-run, authentic, away from tourist traps |
-| | | **Time:** ~15:15–17:00 |
-| | | **Budget:** €12–18/person (including drink) |
-| | | **Vibe:** Local, genuine, real Neapolitan family dining |
-| | | Kids will experience authentic Italian culture |
-| **17:15** | 🍦 **Final Evening Stroll** | Walk **Lungomare** one last time |
-| | | Watch sunset over bay |
-| | | Buy gelato from local gelateria (€3–4) |
-| | | **Pack tonight** for morning flight |
-| **18:30** | 🍽️ **Light Dinner** | Rest after trattoria OR simple pasta at Airbnb if not full |
+| Time | Activity | Location & Directions | Details |
+|------|----------|---|---------|
+| **10:00** | 🚡 **Funicular to Vomero** | **From Airbnb (Via Giovanni Nicotera 32, Vomero)** → Walk downhill to **Funicolare Centrale stop** on **Via Toledo** (5 min) → Take **Funicolare Centrale UP to Vomero** (scenic! 10 min, included in 5-day pass) | Scenic ride, fun for kids! |
+| **10:30** | ⛪ **Certosa di San Martino** | **Exit funicular** → Walk uphill (or taxi) to **Certosa di San Martino** (15–20 min walk from top of funicular) | Baroque monastery with stunning cloister, artworks, views. Entry: €6/person. Duration: 2 hours. |
+| | | **THE HIGHLIGHT: 360° views of entire bay** | See at once: Vesuvius, Pompeii, Herculaneum, islands. Perfect photo opportunity! Geography of trip comes together here. |
+| **12:00** | 🚡 **Descend to City Centre** | **From Certosa** → Walk back down to **Funicolare Centrale** (15 min downhill) → Take **Funicular back down to Via Toledo** (10 min) | Arrive back in historic centre via Via Toledo. |
+| **13:00** | 🍽️ **Lunch at Airbnb** | **From Via Toledo** → **Metro Line 1 to Vanvitelli** (10 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | Quick meal (€3–5/person) – pasta, cheese, leftovers. Rest & recharge. |
+| **14:15** | 🛒 **Pignasecca Market** | **From Airbnb** → Walk downhill to historic centre (15 min) → **Pignasecca Market** (in Historic Centre, near Via Toledo) | One of Naples' oldest street markets. Browse: fresh produce, cheese, charcuterie, street food. Energetic, local, authentic vibe. Pick up ingredients & souvenirs. Budget: £10–15 |
+| **15:15** | 🍴 **LOCAL TRATTORIA – SPECIAL TREAT!** | ⭐ **Ask Airbnb host for recommendation** – ask for "un buon posto per mangiare con i bambini" ("A good place to eat with children") | **Look for:** Family-run, authentic, away from tourist traps. **Time:** ~15:15–17:00. **Budget:** €12–18/person (including drink). **Vibe:** Local, genuine, real Neapolitan family dining. Kids will experience authentic Italian culture. |
+| **17:15** | 🍦 **Final Evening Stroll** | **From trattoria** → Walk back towards waterfront → **Lungomare** (scenic evening walk, 15–20 min) | Watch sunset over bay. Buy gelato from local gelateria (€3–4). One of the best moments of the trip! |
+| **18:30** | 🏠 **Return to Airbnb** | **From Lungomare** → **Metro Line 1 to Vanvitelli** (10 min) → Walk uphill to **Via Giovanni Nicotera 32** (5 min) | Pack tonight for morning flight. Light dinner if not full from trattoria. |
 
 [**Back to navigation**](#quick-navigation)
 
@@ -297,17 +218,12 @@ _Your gateway to ancient Rome, world-class food, and unforgettable family memori
 
 _Arrivederci, Naples! But the memories will last forever._
 
-| Time | Activity | Details |
-|------|----------|---------|
-| **07:30** | 📦 Check out of Airbnb | Pack final items, tidy up, take out rubbish |
-| **07:45** | 🚌 **Alibus to Airport** | Walk to nearest Alibus stop (near Garibaldi Station) |
-| | | Cost: €5/person (included in 5-day pass) |
-| | | Duration: ~20 mins to airport |
-| | | Aim to arrive **08:00** for 10:00 departure |
-| **08:00** | ✈️ **At Airport** | Check in, security, boarding |
-| | | Grab final **sfogliatella & espresso** (€3–4) |
-| | | Bittersweet goodbye 👋 |
-| **10:00** | ✈️ **DEPART NAPLES** | 🏠 Back home! |
+| Time | Activity | Location & Directions | Details |
+|------|----------|---|---------|
+| **07:30** | 📦 Check out of Airbnb | **Via Giovanni Nicotera 32** → Pack final items, tidy up, take out rubbish. Text host departure time. | Coordinate with Airbnb host. |
+| **07:45** | 🚌 **Alibus to Airport** | **From Airbnb** → Walk downhill to Metro Line 1 (5 min) → **Metro to Garibaldi** (5 min) → Walk to **Alibus stop** (near Garibaldi Station) | Cost: €5/person (included in 5-day pass). Duration: ~20 mins to airport. Alibus runs every 15–20 mins. Final destination: **Capodichino Airport**. Aim to arrive **08:00** for 10:00 departure. |
+| **08:00** | ✈️ **At Airport** | **Capodichino Airport (NAP)** | Check in, security, boarding. Grab final **sfogliatella & espresso** at airport café (€3–4). Bittersweet goodbye 👋 |
+| **10:00** | ✈️ **DEPART NAPLES** | ✈️ Airport departure | 🏠 Back home! |
 
 [**Back to navigation**](#quick-navigation)
 
